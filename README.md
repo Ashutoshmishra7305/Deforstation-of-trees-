@@ -22,7 +22,7 @@ This project was developed as part of the *AICTE-Edunet Internship Program* unde
 - *Google Colab*
 - *NumPy*
 - *Matplotlib*
-- (Optional) Pandas, CSV (if you included NEO data)
+- Pandas, CSV (if you included NEO data)
 
 ---
 
@@ -33,7 +33,7 @@ This project was developed as part of the *AICTE-Edunet Internship Program* unde
    \text{NDVI} = \frac{NIR - RED}{NIR + RED}
    \]
 3. *Visualized NDVI as a heatmap*
-4. (Optional) Saved the output plot as PNG
+4.  Saved the output plot as PNG
 
 ---
 
